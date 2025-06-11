@@ -7,6 +7,14 @@
 
 A Java web application that lets users create, organize, and visualize notes by emotional tone through color-coding.
 
+## 📸 Screenshots
+
+### 🧍‍♀️ Signup Page
+![Signup](screenshots/signup.png)
+
+### 🧾 Dashboard / Notes Page
+![Dashboard](screenshots/dashboard.png)
+
 ## ✨ Key Features
 
 - **User Authentication**: Secure login/signup with session management
